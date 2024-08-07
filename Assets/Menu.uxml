@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/imagens/fundo.jpg?fileID=2800000&amp;guid=722ece346f08c3b41837ccffcf28351e&amp;type=3#fundo&quot;); height: 451px; -unity-font: url(&quot;project://database/Assets/fontes/Rowdies-Bold.ttf?fileID=12800000&amp;guid=2d01883a2bf824643b47e25cf9492ef2&amp;type=3#Rowdies-Bold&quot;); justify-content: center; align-self: auto; align-items: center;">
+        <ui:Label tabindex="-1" text="SunnyLand" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-font-definition: initial; font-size: 40px;" />
+        <ui:Button text="Jogar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnJogar" />
+    </ui:VisualElement>
+</ui:UXML>
